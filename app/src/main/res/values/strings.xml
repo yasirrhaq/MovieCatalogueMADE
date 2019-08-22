@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">MovieCatalogue</string>
+
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+        labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+        aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+        fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+        anim id est laborum.
+    </string>
+
+    <string name="user_score">User Score :</string>
+    <string name="release_date">Release Date :</string>
+    <string name="featured_crew">Featured Crew :</string>
+    <string name="description">Description</string>
+
+    <string-array name="title">
+        <item>A Star Is Born</item>
+        <item>Aquaman</item>
+        <item>Avengers: Infinity War</item>
+        <item>Bird Box</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Bumblebee</item>
+        <item>Creed</item>
+        <item>Deadpool</item>
+        <item>How To Train Your Dragon</item>
+        <item>Glass</item>
+    </string-array>
+
+    <string-array name="release_date">
+        <item>3 October 2018</item>
+        <item>7 December 2018</item>
+        <item>25 April 2018</item>
+        <item>13 October 2018</item>
+        <item>24 October 2018</item>
+        <item>15 December 2018</item>
+        <item>25 November 2018</item>
+        <item>9 February 2018</item>
+        <item>10 March 2010</item>
+        <item>16 January 2019</item>
+    </string-array>
+
+    <string-array name="score">
+        <item>75%</item>
+        <item>68%</item>
+        <item>83%</item>
+        <item>70%</item>
+        <item>81%</item>
+        <item>65%</item>
+        <item>73%</item>
+        <item>76%</item>
+        <item>77%</item>
+        <item>65%</item>
+    </string-array>
+
+    <string-array name="featured_crew">
+        <item>Lady Gaga, Bradley Cooper, Sam Elliot, Andrew Dice Clay, Rafi Gavron</item>
+        <item>Jason Momoa, Amber Heard, Willem Dafoe, Patrick Wilson, Nicole Kidman</item>
+        <item>Robert Downey Jr., Chris Hemsworth, Chris Evans, Mark Ruffalo, Scarlett Johansson</item>
+        <item>Sandra Bullock, Trevante Rhodes, John Malkovich, Sarah Paulson, Jacki Weaver</item>
+        <item>Rami Malek, Gwilym Lee, Ben Hardy, Joseph Mazzello, Lucy Boynton</item>
+        <item>Hailee Steinfeld, Joge Lendeborg Jr., John Cena, Jason Ian Drucker, Pamela Adlon</item>
+        <item>Michael B. Jordan, Sylvester Stallone, Tessa Thompson, Phylicia Rashad, Tony Bellew</item>
+        <item>Ryan Reynolds, Morena Baccarin, Ed Skrein, T.J. Miller, Gina Carano</item>
+        <item>Jay Baruchel, Gerard Butler, Craig Ferguson, America Ferrera, Jonah Hill</item>
+        <item>James McAvoy, Bruce Willis, Anya Taylor-Joy, Sarah Paulson, Samuel L. Jackson</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Seasoned musician Jackson Maine discovers and falls in love with struggling artist Ally. She has just
+            about given up on her dream to make it big as a singer until Jack coaxes her into the spotlight. But even as
+            Ally\'s career takes off, the personal side of their relationship is breaking down, as Jack fights an
+            ongoing battle with his own internal demons.
+        </item>
+        <item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the
+            power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people
+            and then the surface world. Standing in his way is Arthur Curry, Orm\'s half-human, half-Atlantean brother
+            and true heir to the throne.
+        </item>
+        <item>
+            As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.
+        </item>
+        <item>Five years after an ominous unseen presence drives most of society to suicide, a survivor and her two
+            children make a desperate bid to reach safety.
+        </item>
+        <item>Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the
+            music world by storm when they form the rock \'n\' roll band Queen in 1970. Hit songs become instant
+            classics. When Mercury\'s increasingly wild lifestyle starts to spiral out of control, Queen soon faces its
+            greatest challenge yet – finding a way to keep the band together amid the success and excess.
+        </item>
+        <item>On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town.
+            Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee,
+            battle-scarred and broken. When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.
+        </item>
+        <item>The former World Heavyweight Champion Rocky Balboa serves as a trainer and mentor to Adonis Johnson, the
+            son of his late friend and former rival Apollo Creed.
+        </item>
+        <item>Deadpool tells the origin story of former Special Forces operative turned mercenary Wade Wilson, who after
+            being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego
+            Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who
+            nearly destroyed his life.
+        </item>
+        <item>As the son of a Viking leader on the cusp of manhood, shy Hiccup Horrendous Haddock III faces a rite of
+            passage: he must kill a dragon to prove his warrior mettle. But after downing a feared dragon, he realizes
+            that he no longer wants to destroy it, and instead befriends the beast – which he names Toothless – much to
+            the chagrin of his warrior father
+        </item>
+        <item>In a series of escalating encounters, former security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.</item>
+    </string-array>
+
+    <array name="poster">
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_dragon</item>
+        <item>@drawable/poster_glass</item>
+    </array>
+
+</resources>

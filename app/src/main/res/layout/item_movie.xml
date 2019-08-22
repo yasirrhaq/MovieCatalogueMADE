@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/image_poster"
+        android:layout_width="100dp"
+        android:layout_height="150dp"
+        android:scaleType="fitXY"/>
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="26dp"
+        android:layout_toEndOf="@id/image_poster"
+        android:text="Avengers"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginLeft="26dp"
+        android:layout_toRightOf="@id/image_poster"/>
+
+    <TextView
+        android:id="@+id/tv_description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_title"
+        android:layout_marginStart="26dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="26dp"
+        android:layout_toRightOf="@id/image_poster"
+        android:ellipsize="end"
+        android:maxLines="3"
+        android:text="@string/lorem"/>
+
+</RelativeLayout>
